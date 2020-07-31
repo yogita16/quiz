@@ -1,0 +1,130 @@
+a:hover,a:active{color: white}
+
+#home{
+    background-image:url('image/1.jpg');
+}
+.first{
+    background-color: whitesmoke;
+    width: 20%;
+    padding: 30px;
+    border: 1px solid #cbcbcb;
+    margin:50px auto;
+}
+.first h2{
+    text-align: center;
+    color: rgb(141, 19, 70);
+}
+.textInput{
+    margin-top: 2px;
+    height: 28px;
+    border: 1px solid #5E6E66;
+    font-size: 16px;
+    padding: 1px;
+    width: 100%;
+    color: blueviolet;
+}
+.Heading{
+    background-color:black;
+    padding: 14px;
+    margin-top: 15px;
+    color: blanchedalmond;
+}
+.heading_btn{
+    padding: 13px;
+    border: none;
+}
+.heading_btn:hover,.heading_btn:active{
+    background-color: grey;
+}
+.btn1{
+    margin-left: 50px;
+    margin-top: 50px;
+    padding: 50px;
+    background-color: cadetblue;
+    border: 1px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: medium;
+}
+#position{
+    position: absolute;
+    color: purple;
+    top:20px;
+    right:30px;
+}
+#heading{
+    color: palevioletred;
+    margin-left: 50px;
+}
+#user{
+    color: blue;
+    position: absolute;
+    top: 0px;
+    left: 100px;
+    font-weight: bold;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.main{
+    background-color: darkolivegreen;
+}
+#random{
+    background-color: cornsilk;
+    position: absolute;
+    width: 150px;
+    top: 90px;
+    left: 20px;
+    border: 1px solid black;
+    padding: 20px;
+}
+#cquiz{
+    background-color: cornsilk;
+    position: absolute;
+    width: 150px;
+    top: 90px;
+    left: 250px;
+    border: 1px solid black;
+    padding: 20px;
+}
+#cppquiz{
+    background-color: cornsilk;
+    width: 150px;
+    position: absolute;
+    top: 90px;
+    left: 480px;
+    border: 1px solid black;
+    padding: 20px;
+}
+#javaquiz{
+    background-color: cornsilk;
+    position: absolute;
+    width: 150px;
+    top: 90px;
+    left: 710px;
+    border: 1px solid black;
+    padding: 20px;
+}
+#pythonquiz{
+    background-color: cornsilk;
+    position: absolute;
+    width: 150px;
+    top: 90px;
+    left: 940px;
+    border: 1px solid black;
+    padding: 20px;
+}
+#error_msg{
+    width: 30%;
+    margin: 5px auto;
+    height: 30px;
+    border: 1px solid #FF0000;
+    background: #FFB9B8;
+    color: #FF0000;
+    text-align: center;
+    padding-top: 10px;
+}
+td{
+    text-align: right;
+}

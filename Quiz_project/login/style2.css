@@ -1,0 +1,59 @@
+.home{
+    background-image: url('../image/2.jpg');
+}
+form{
+    background-image: url('../image/5.jpg');
+    width: 22%;
+    
+    margin-top: 200px;
+    margin-left: 550px;
+    border: 1px solid #161212;
+}
+.element{
+    padding: 20px;
+}
+.textInput{
+    margin-top: 2px;
+    height: 28px;
+    border: 1px solid #5E6E66;
+    font-size: 16px;
+    padding: 1px;
+    width: 100%;
+    color: indigo;
+}
+#heading{
+    color: palevioletred;
+    margin-left: 50px;
+}
+.header{
+    color: blue;
+    text-align: center;
+    
+    padding: 3px;
+}
+
+.quiz{
+    background-color: pink;
+    margin-top: 50px;
+    margin-left: 100px;
+    width: 100px;
+    border: 1px solid black;
+    padding: 20px;
+}
+.btn{
+    color:green;
+
+}
+#error_msg{
+    width: 30%;
+    margin: 5px auto;
+    height: 30px;
+    border: 1px solid #FF0000;
+    background: #FFB9B8;
+    color: #FF0000;
+    text-align: center;
+    padding-top: 10px;
+}
+td{
+    text-align: right;
+}
